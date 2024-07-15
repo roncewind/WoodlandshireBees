@@ -12,7 +12,7 @@ date: 2024-07-01
 - Temperament: calm
 - Crescent moon queen present:
 
-![Crescent moon queen](/woodlandwizardbees/assets/images/inspections/IMG_5795.JPG)
+![Crescent moon queen](/assets/images/IMG_5795.JPG)
 
 - Eggs, larvae, and capped brood present in the second brood box.
 
