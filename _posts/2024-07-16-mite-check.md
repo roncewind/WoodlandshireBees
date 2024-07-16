@@ -5,7 +5,7 @@ date: 2024-07-16
 
 
 - Time: ~14.00
-- Temp: ~99F, clear and sunny
+- Temp: ~79F, clear and sunny
 
 ### East nuc
 
