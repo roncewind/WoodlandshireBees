@@ -21,6 +21,7 @@ were filled in then what happened to them?
 
 ![Capped honey](/WoodlandWizardBees/assets/images/IMG_6135.jpg)
 ![Capped honey](/WoodlandWizardBees/assets/images/IMG_6136.jpg)
+![Different colored pollen](/WoodlandWizardBees/assets/images/IMG_6143.jpg)
 
 - Honey super not built out at all.
 - Building out drone frame nicely:
