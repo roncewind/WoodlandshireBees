@@ -1,4 +1,4 @@
 ---
-title: Welcome to Woodland Wizard bees
+title: Welcome to Woodlandshire Honey Farm
 ---
 Just my hive notes and other bee buzz.
