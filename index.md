@@ -1,5 +1,5 @@
 ---
-title: Welcome to Woodlandshire Honey Farm
+title: Welcome to Woodlandshire Bees
 ---
 Just my hive notes and other bee buzz.
 
