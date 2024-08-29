@@ -16,6 +16,8 @@ date: 2024-08-28
 - Drone frame built out, some larvae
 - Removed frame of capped brood to put in second hive
 - Removed 2 frames of partially drawn comb to put in second hive
+- Inner cover is starting to get moldy, seems like there is too much moisture in the hive.
+- Removed slide out bottom board and placed below hive in an attempt to reduce moisture.
 
 ### West nuc
 
