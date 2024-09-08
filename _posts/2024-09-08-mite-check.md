@@ -1,18 +1,18 @@
 ---
 title: "Mite Check"
-date: 2024-09-06
+date: 2024-09-08
 ---
 
 - Time: ~08.00
-- Temp: ~60F, sunny
+- Temp: ~57F, hazy sun
 
 ### East nuc
 
-- Bottom board had 10 mites
+- Bottom board had 5 mites
 - Wiped and re-oiled the bottom board.
 
 ### West nuc
 
-- Bottom board had 11 mites
+- Bottom board had 6 mites
 - Wiped and re-oiled the bottom board.
 
