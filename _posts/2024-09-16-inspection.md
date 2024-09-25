@@ -7,7 +7,7 @@ date: 2024-09-16
 - Time: ~14.00
 - Temp: ~65F, sunny
 
-### East nuc
+### East hive
 
 - Temperament: calm, no smoke needed
 - Eggs, larvae, and capped brood present.
@@ -15,13 +15,13 @@ date: 2024-09-16
 - Rearranged and moved one honey frame to the 3rd deep
 - also moved the other honey frames to the center of the super.
 
-### Middle nuc
+### Middle hive
 
 - Temperament: calm
 - They had taken 1qt of 22% honey
 - Put on 1qt of 1:1 along with the pollen patty
 
-### West nuc
+### West hive
 
 - Temperament: calm, no smoke needed
 - Green dot frame looks good.
