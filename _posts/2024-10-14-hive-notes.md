@@ -1,6 +1,6 @@
 ---
 title: "Hive Notes"
-date: 2024-10-13
+date: 2024-10-14
 ---
 
 - Time: ~07.30
