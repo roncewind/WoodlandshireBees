@@ -12,7 +12,7 @@ date: 2024-06-09
 - Temperament: calm
 - Crescent moon queen present:
 
-![Crescent moon queen](/WoodlandWizardBees/assets/images/IMG_5377.JPG)
+![Crescent moon queen](/WoodlandshireBees/assets/images/IMG_5377.JPG)
 
 - Eggs and larvae present
 - Top feeder did not need to be refilled.
