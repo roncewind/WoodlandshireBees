@@ -13,6 +13,6 @@ date: 2025-02-28
 - Quickly checked feed and added 1/2 a pollen patty
 - Doesn't look like they ate any of the sugar over the winter
 - I've heard that they'll often eat it in the spring, so I'll keep an eye on it
-
+- Washed up the sticky boards.
 
 
